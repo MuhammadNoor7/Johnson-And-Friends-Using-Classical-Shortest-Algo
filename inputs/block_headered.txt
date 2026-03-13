@@ -1,0 +1,8 @@
+/*Block 2: small non-negative headered edge list (n m then edges)
+This is suitable for testing Dijkstra/Bellman-Ford run mode and both list/matrix
+representations.*/
+4 4
+1 2 1.0
+2 3 2.5
+1 4 4.0
+3 4 1.0

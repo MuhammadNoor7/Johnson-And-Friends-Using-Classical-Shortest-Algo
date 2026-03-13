@@ -1,0 +1,5 @@
+/*Block 4: adjacency matrix (INF token accepted)
+3
+0 5 INF
+INF 0 2
+INF INF 0

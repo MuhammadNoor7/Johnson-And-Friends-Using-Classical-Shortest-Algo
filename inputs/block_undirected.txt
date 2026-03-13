@@ -1,0 +1,5 @@
+/*Block 7: undirected graph example (use script with `--undirected` flag to treat as undirected)*/
+4 3
+1 2 2.0
+2 3 3.5
+3 4 1.0

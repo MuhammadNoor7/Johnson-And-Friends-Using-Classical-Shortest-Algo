@@ -1,0 +1,4 @@
+/*Block 1: disconnected graph (5 vertices, only 2 edges). Distances to unreachable nodes should be INF.*/
+5 2
+1 2 3.0
+2 3 1.0
