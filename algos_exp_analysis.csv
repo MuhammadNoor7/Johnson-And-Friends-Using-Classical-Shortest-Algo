@@ -1,0 +1,13 @@
+Algorithm,Graph Type,Time (ms),Works with Negative Weights,Complexity,Number of Relaxations,Memory (KB)
+Dijkstra,Sparse,0.0652,No,O(m + n log n),9,0.7188
+Bellman-Ford,Sparse,0.0665,Yes,O(nm),9,0.7578
+Floyd-Warshall,Sparse,0.4285,Yes,O(n^3),85,2.625
+Johnson,Sparse,0.8356,Yes,O(nm + n^2 log n),91,13.8203
+Dijkstra,Sparse,0.0842,No,O(m + n log n),31,0.6406
+Bellman-Ford,Sparse,0.059,Yes,O(nm),32,0.6328
+Floyd-Warshall,Sparse,5.4726,Yes,O(n^3),1141,23.2812
+Johnson,Sparse,4.3182,Yes,O(nm + n^2 log n),861,52.9531
+Dijkstra,Sparse,0.1373,No,O(m + n log n),57,1.0156
+Bellman-Ford,Sparse,0.1526,Yes,O(nm),92,0.875
+Floyd-Warshall,Sparse,27.2437,Yes,O(n^3),4549,73.3203
+Johnson,Sparse,10.934,Yes,O(nm + n^2 log n),2647,121.5781
